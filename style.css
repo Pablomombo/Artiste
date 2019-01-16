@@ -1,0 +1,29 @@
+body{font-family:Verdana, Geneva, sans-serif; font-size: 16px; line-height: 22px; background-color:#FAEBD7; /* ANTIQUEWHITE */
+}
+
+h1, h2, h3, h4, h5, h6{font-family: 'Lobster', cursive; color: #808000; padding: 5px 10px 10px 10px;text-shadow: 2px 2px 3px rgba(150, 150, 155, 1);}
+
+h1{font-size: 40px; font-style: italic; margin-top: 5px; margin-right: 0; margin-bottom: 5px; margin-left: 0; /* margin: 15px 0 5px 0 */padding: 15px 10px 10px 10px;}
+
+h2{margin: 10px 0 5px 0;}
+
+p{padding: 0 10px 10px 10px; text-align: justify}
+
+a{font-weight: bold}
+
+nav ul{margin:0; padding:0; list-style-type:none}
+nav ul li a{text-decoration:none}
+nav ul li a:hover{color:orange}
+
+nav ul li{float:left; width:33.33%; text-align:center; font-family: 'Lobster', cursive; color: #808000; font-size: 20px}
+
+#Gigs {margin: 20px 30px 20px 40px;}
+
+#container{ width:1000px; height:1800px; background-color:#D2B48C; /* tan */ margin: auto auto auto auto;}
+
+#explication{width:410px; height:550px; margin:20px 30px 20px 25px; float:left; padding:0 10px 0 15px;}
+
+#video{width:450px; height:550px; margin:20px 10px 20px 0; float:left; padding:0 10px 0 15px;}
+
+#localisation{width:600px; height:400px; margin:20px 30px 20px 25px; padding:0 10px 0 15px;}
+
